@@ -159,15 +159,57 @@ This resource has been fully converted from QBCore to Qbox framework:
 - ✅ Configurable drowning mechanics
 - ✅ Improved minimap stability
 
-## 🆘 Support & Troubleshooting
+## 🚧 Development Status
 
-### Common Issues
+**Current Progress: 70% Complete**
+
+EZ-HUD is actively under development with continuous improvements and new features being added. This is not a finished product and we welcome community contributions!
+
+### 🔨 What's Working
+- ✅ Full Qbox framework integration
+- ✅ Modern vehicle HUD with fuel system compatibility
+- ✅ Advanced weapon HUD with 50+ weapon support
+- ✅ QBX Divegear integration with underwater mechanics
+- ✅ Stress and stamina systems
+- ✅ Minimap enhancements and fixes
+
+### 🚀 What's Coming
+- 🔄 Enhanced UI animations and effects
+- 🔄 Additional fuel system integrations
+- 🔄 More weapon types and customization
+- 🔄 Advanced diving mechanics
+- 🔄 Performance optimizations
+- 🔄 Additional framework compatibility
+
+### 🤝 Want to Help?
+
+**We're looking for contributors!** If you'd like to help finish this project, we welcome:
+- 💻 Code contributions and bug fixes
+- � UI/UX improvements and design suggestions
+- 🧪 Testing and feedback
+- 📚 Documentation and tutorials
+- 💡 Feature ideas and suggestions
+
+## 💬 Community & Support
+
+### 🎮 Qbox Framework Official
+Join the official Qbox community for framework support, updates, and collaboration:
+
+**🔗 [Qbox Official Discord](https://discord.gg/qbox)**
+- Get help with Qbox framework integration
+- Connect with other developers and server owners
+- Stay updated on the latest Qbox developments
+- Access official documentation and resources
+
+### 🆘 Troubleshooting
+
+#### Common Issues
 1. **Minimap Glitching**: Set `Config.fixMinimapZoom = true`
 2. **Fuel Not Showing**: Check fuel system configuration
 3. **Diving Gear Not Detected**: Ensure qbx_divegear and ox_inventory are running
 4. **Performance Issues**: Adjust update intervals in config
 
-### Debug Mode
+#### Debug Mode
 Enable `Config.debug = true` for detailed console logging of all HUD systems.
 
 ## 📄 License
