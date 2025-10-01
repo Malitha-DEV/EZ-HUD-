@@ -1,6 +1,8 @@
 # EZ-HUD
 
-A modern, feature-rich HUD system for FiveM servers with full Qbox framework compatibility and advanced underwater diving support.
+**A Prodigy 2.0 Inspired QBX HUD System**
+
+A modern, feature-rich HUD system for FiveM servers with full Qbox framework compatibility and advanced underwater diving support. Inspired by the sleek design and functionality of Prodigy 2.0, rebuilt specifically for the QBX framework.
 
 ## 📸 Screenshots
 
@@ -218,10 +220,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Credits
 
-- **Original**: Majestic HUD
-- **Qbox Conversion**: Enhanced for Qbox Framework compatibility
-- **Diving Integration**: QBX Divegear compatibility layer
-- **UI Enhancements**: Modern weapon HUD and underwater systems
+- **Inspired By**: Prodigy 2.0 HUD design and functionality
+- **Framework**: Built specifically for QBX Framework
+- **Original Base**: Majestic HUD
+- **QBX Integration**: Enhanced for full Qbox Framework compatibility
+- **Diving System**: QBX Divegear compatibility and integration
+- **UI Design**: Modern weapon HUD and underwater systems inspired by Prodigy 2.0
 
 - Original framework compatibility
 - Modern UI design
