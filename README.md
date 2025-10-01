@@ -2,6 +2,12 @@
 
 A modern, feature-rich HUD system for FiveM servers with full Qbox framework compatibility and advanced underwater diving support.
 
+## 📸 Screenshots
+
+![EZ-HUD Interface](https://cdn.discordapp.com/attachments/1388894940955807754/1422892794434949191/Screenshot_2025-10-01_144603.png?ex=68de53ae&is=68dd022e&hm=ed4b2f9dd791e88d47af2c9001c488b7bd84b618ddace27283f8dfa7d518ebb5&)
+
+*Modern HUD interface showing vehicle status, weapon HUD, minimap, and status indicators*
+
 ## ✨ Features
 
 ### 🎨 **Modern UI Design**
